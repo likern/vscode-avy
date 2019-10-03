@@ -1,9 +1,10 @@
-# Find Then Jump
+# VSCode-Avy
 
-> [Vim Easymotion](https://github.com/easymotion/vim-easymotion) inspired code navigation.
+<p align="center">
+  <img width="559" height="397" src="/demo/poster.png" >
+</p>
 
-This extension fork of [Find-Jump](https://github.com/msafi/xvsc/tree/master/findJump) that fixes
-the limitations of the original extension while adding additional functionality.
+> Inspired by [Emacs Avy](https://github.com/abo-abo/avy) package.
 
 ![Usage demo](/demo/demo.gif?raw=true "Usage demo")
 
@@ -36,7 +37,7 @@ Example `settings.json`:
 
 ## Bugs & Suggestions
 
-Feel free to create an [issue](https://github.com/tranhl/find-then-jump/issues)
+Feel free to create an [issue](https://github.com/likern/vscode-avy/issues)
 outlining the bug or suggestion!
 
 ## Change Log
@@ -45,6 +46,6 @@ outlining the bug or suggestion!
 
 ## Copyright
 
-Extension icon made by [Freepik](https://www.freepik.com),
+Typewriter icon made by [Freepik](https://www.freepik.com),
 from [FlatIcon](https://www.flaticon.com),
-under a [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0) license.
+under a **Flaticon Basic License**.
