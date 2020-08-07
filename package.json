@@ -66,6 +66,6 @@
     },
     "dependencies": {
         "@types/ramda": "^0.25.47",
-        "ramda": "^0.26.1"
+        "ramda": "^0.27.0"
     }
 }
